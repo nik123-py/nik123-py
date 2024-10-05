@@ -20,7 +20,6 @@ Researching new ways to stay ahead of cyber threats
 📫 Let's stay in touch:
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/nikhilesh-sharma-505225286/
-Follow me on Twitter: https://x.com/Nikhile99011692
 🛠️ Some tools I rely on:
 
 Burp Suite

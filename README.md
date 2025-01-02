@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I am Nik123-py👋
 
 - 🔭 I’m currently working on making a kernal
 - 🌱 I’m currently learning c++,pentesting,rust,making malware

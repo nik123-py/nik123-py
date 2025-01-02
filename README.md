@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with : learning assembly to make own kernal 
 - 📫 How to reach me: linkedin
 - 😄 Pronouns: he/him
--->
+
 
 🔒 **Cybersecurity Enthusiast | Building Tools & Strengthening Systems 🛡️**
 

@@ -45,4 +45,4 @@ I’m deeply fascinated by uncovering system vulnerabilities and crafting innova
 - 📁 **Hashcat**  
 
 📫 **Let’s Connect**:  
-🌟 [**LinkedIn: Nikhilesh Sharma**](https://www.linkedin.com/in/nikhilesh-sharma-505225286/)  
+🌟 [**LinkedIn: Nikhilesh Sharma**](https://www.linkedin.com/in/nikhilesh-sharma-629b84329/)  

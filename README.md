@@ -51,6 +51,55 @@
 ![Hashcat](https://img.shields.io/badge/Hashcat-CC0000?style=for-the-badge)
 
 ---
+### 🌐 Languages I Know
+<div style="max-width:600px;margin:auto;padding:2rem;background:#1a202c;color:#edf2f7;border-radius:1rem;text-align:center;font-family:sans-serif;">
+  <h2 style="font-size:2rem;margin-bottom:1.5rem;">💻 Languages I Know</h2>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:1.5rem;align-items:center;">
+    
+    
+  <div>
+      <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" style="width:64px;height:64px;margin-bottom:.5rem;">
+      <p>C++</p>
+    </div>
+    
+    
+  <div>
+      <img src="https://img.icons8.com/color/96/000000/c.png" alt="C" style="width:64px;height:64px;margin-bottom:.5rem;">
+      <p>C</p>
+    </div>
+    
+  <div>
+      <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" style="width:64px;height:64px;margin-bottom:.5rem;">
+      <p>Java</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" style="width:64px;height:64px;margin-bottom:.5rem;">
+      <p>JavaScript</p>
+    </div>
+    
+   <div>
+      <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" style="width:64px;height:64px;margin-bottom:.5rem;">
+      <p>TypeScript</p>
+    </div>
+    
+   <div>
+      <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" style="width:64px;height:64px;margin-bottom:.5rem;">
+      <p>HTML5</p>
+    </div>
+    
+ <div>
+      <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" style="width:64px;height:64px;margin-bottom:.5rem;">
+      <p>CSS3</p>
+    </div>
+  <div>
+      <img src="https://img.icons8.com/ios-filled/100/000000/assembly-language.png" alt="Assembly" style="width:64px;height:64px;margin-bottom:.5rem;">
+      <p>Assembly</p>
+    </div>
+
+  </div>
+</div>
+
+
 
 ### 📊 GitHub Stats
 

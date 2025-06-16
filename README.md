@@ -2,9 +2,9 @@
 <h3 align="center">🔒 Cybersecurity Enthusiast | Kernel Developer | Pentester in Training</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=🔧+Building+a+custom+Kernel;💻+Learning+Rust%2C+C%2B%2B%2C+Assembly;🔐+Passionate+about+Cybersecurity;🛠️+Crafting+Security+Tools" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=🔧+Kernel+Developer;💻+Learning+Rust%2C+C%2B%2B%2C+Assembly;🔐+Cybersecurity+Enthusiast;🛠️+Building+Security+Tools;📚+Pentester+in+Training" alt="Typing SVG" />
 </p>
+
 
 ---
 

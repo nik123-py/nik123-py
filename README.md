@@ -52,47 +52,47 @@
 
 ---
 ### 🌐 Languages I Know
-<div style="max-width:600px;margin:auto;padding:2rem;background:#1a202c;color:#edf2f7;border-radius:1rem;text-align:center;font-family:sans-serif;">
+<div style="max-width:1000px;margin:auto;padding:2rem;background:#1a202c;color:#edf2f7;border-radius:1rem;text-align:center;font-family:sans-serif;">
   <h2 style="font-size:2rem;margin-bottom:1.5rem;">💻 Languages I Know</h2>
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:1.5rem;align-items:center;">
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:2rem;align-items:center;">
     
-    
-  <div>
-      <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" style="width:64px;height:64px;margin-bottom:.5rem;">
+   <div style="text-align:center;">
+      <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" style="width:64px;height:64px;">
       <p>C++</p>
     </div>
     
-    
-  <div>
-      <img src="https://img.icons8.com/color/96/000000/c.png" alt="C" style="width:64px;height:64px;margin-bottom:.5rem;">
+   <div style="text-align:center;">
+      <img src="https://img.icons8.com/color/96/000000/c.png" alt="C" style="width:64px;height:64px;">
       <p>C</p>
     </div>
     
-  <div>
-      <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" style="width:64px;height:64px;margin-bottom:.5rem;">
+   <div style="text-align:center;">
+      <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" style="width:64px;height:64px;">
       <p>Java</p>
     </div>
-    <div>
-      <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" style="width:64px;height:64px;margin-bottom:.5rem;">
+    
+   <div style="text-align:center;">
+      <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" style="width:64px;height:64px;">
       <p>JavaScript</p>
     </div>
     
-   <div>
-      <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" style="width:64px;height:64px;margin-bottom:.5rem;">
+   <div style="text-align:center;">
+      <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" style="width:64px;height:64px;">
       <p>TypeScript</p>
     </div>
     
-   <div>
-      <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" style="width:64px;height:64px;margin-bottom:.5rem;">
-      <p>HTML5</p>
+  <div style="text-align:center;">
+      <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" style="width:64px;height:64px;">
+      <p>HTML</p>
     </div>
     
- <div>
-      <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" style="width:64px;height:64px;margin-bottom:.5rem;">
-      <p>CSS3</p>
+   <div style="text-align:center;">
+      <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" style="width:64px;height:64px;">
+      <p>CSS</p>
     </div>
-  <div>
-      <img src="https://img.icons8.com/ios-filled/100/000000/assembly-language.png" alt="Assembly" style="width:64px;height:64px;margin-bottom:.5rem;">
+    
+   <div style="text-align:center;">
+      <img src="https://img.icons8.com/ios-filled/100/000000/assembly-language.png" alt="Assembly" style="width:64px;height:64px;filter:invert(1);">
       <p>Assembly</p>
     </div>
 

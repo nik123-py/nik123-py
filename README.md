@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=🔧+Building+a+custom+Kernel;💻+Learning+Rust%2C+C%2B%2B%2C+Assembly;🔐+Passionate+about+Cybersecurity;🛠️+Crafting+Security+Tools" alt="Typing SVG" />
+
 </p>
 
 ---

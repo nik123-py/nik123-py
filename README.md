@@ -52,54 +52,18 @@
 
 ---
 ### 🌐 Languages I Know
-<div style="max-width:1000px;margin:auto;padding:2rem;background:#1a202c;color:#edf2f7;border-radius:1rem;text-align:center;font-family:sans-serif;">
-  <h2 style="font-size:2rem;margin-bottom:1.5rem;">💻 Languages I Know</h2>
-  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:2rem;align-items:center;">
-    
-   <div style="text-align:center;">
-      <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" style="width:64px;height:64px;">
-      <p>C++</p>
-    </div>
-    
-   <div style="text-align:center;">
-      <img src="https://img.icons8.com/color/96/000000/c.png" alt="C" style="width:64px;height:64px;">
-      <p>C</p>
-    </div>
-    
-   <div style="text-align:center;">
-      <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" style="width:64px;height:64px;">
-      <p>Java</p>
-    </div>
-    
-   <div style="text-align:center;">
-      <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" style="width:64px;height:64px;">
-      <p>JavaScript</p>
-    </div>
-    
-   <div style="text-align:center;">
-      <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" style="width:64px;height:64px;">
-      <p>TypeScript</p>
-    </div>
-    
-  <div style="text-align:center;">
-      <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" style="width:64px;height:64px;">
-      <p>HTML</p>
-    </div>
-    
-   <div style="text-align:center;">
-      <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" style="width:64px;height:64px;">
-      <p>CSS</p>
-    </div>
-    
-   <div style="text-align:center;">
-      <img src="https://img.icons8.com/ios-filled/100/000000/assembly-language.png" alt="Assembly" style="width:64px;height:64px;filter:invert(1);">
-      <p>Assembly</p>
-    </div>
 
-  </div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 1.5rem; padding: 1rem; background-color: #1a202c; border-radius: 1rem;">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" />
+  <img src="https://img.icons8.com/color/48/000000/c.png" alt="C" title="C" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript" />
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />
+  <img src="https://img.icons8.com/ios-filled/48/ffffff/assembly-language.png" alt="Assembly" title="Assembly" />
 </div>
-
-
+---
 
 ### 📊 GitHub Stats
 

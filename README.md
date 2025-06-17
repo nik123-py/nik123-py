@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nik123-py</h1>
-<h3 align="center">🔒 Cybersecurity Enthusiast | Kernel Developer | Pentester in Training</h3>
+<h3 align="center">🔒 Cybersecurity  | Kernel Developer | Pentester in Training|Web developer|Web3 Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=🔧+Kernel+Developer;💻+Learning+Rust%2C+C%2B%2B%2C+Assembly;🔐+Cybersecurity+Enthusiast;🛠️+Building+Security+Tools;📚+Pentester+in+Training" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **developing a custom kernel**
+- 🔭 I’m currently working on **developing different cyber security tools/malware for testing**
 - 🌱 I’m learning **C++, Pentesting, Rust, Malware Development**
 - 🤝 I’m looking to **collaborate** on GitHub
 - 🤔 Need help with: **Assembly & OS Development**

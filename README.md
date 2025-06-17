@@ -61,7 +61,7 @@
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript" />
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />
-  <img src="https://github.com/carlosbaraza/web-assembly-logo/raw/master/dist/logo/web-assembly-logo.png" alt="Assembly" title="Assembly" />
+  <img src="https://img.icons8.com/?size=100&id=mldPmcCMMrFh&format=png&color=000000" alt="Assembly" title="Assembly" />
 </div>
 ---
 

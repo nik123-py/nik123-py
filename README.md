@@ -2,7 +2,15 @@
 <h3 align="center">🔒 Cybersecurity  | Kernel Developer | Pentester in Training|Web developer|Web3 Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=🔧+Kernel+Developer;💻+Learning+Rust%2C+C%2B%2B%2C+Assembly;🔐+Cybersecurity+Enthusiast;🛠️+Building+Security+Tools;📚+Pentester+in+Training" alt="Typing SVG" />
+  <div style="display: flex; justify-content: center; align-items: center; gap: 1.5rem; padding: 1rem; background-color: #1a202c; border-radius: 1rem;">
+  <img src="https://img.icons8.com/?size=100&id=111037&format=png&color=000000" alt="N" title="N" />
+  <img src="https://img.icons8.com/?size=100&id=111027&format=png&color=000000" alt="i" title="I" />
+  <img src="https://img.icons8.com/?size=100&id=JidXFhp4X9De&format=png&color=000000" alt="k" title="K" />
+  <img src="https://img.icons8.com/?size=100&id=35316&format=png&color=000000" alt="1" title="1" />
+  <img src="https://img.icons8.com/?size=100&id=35317&format=png&color=000000" alt="2" title="2" />
+  <img src="https://img.icons8.com/?size=100&id=35318&format=png&color=000000" alt="3" title="3" />
+
+</div>
 </p>
 
 

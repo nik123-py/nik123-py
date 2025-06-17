@@ -32,7 +32,7 @@
 ---
 
 ### 💻 Operating Systems I Use
- <p align="center"> <img src="https://img.icons8.com/color/96/windows-10.png" alt="Windows" title="Windows" height="60"/> &nbsp;&nbsp; <img src="https://img.icons8.com/color/96/linux.png" alt="Kali Linux" title="Kali Linux" height="60"/> &nbsp;&nbsp; <img src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000" alt="Arch Linux" title="Arch Linux" height="60"/> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Qubes_OS_logo_2019.svg/512px-Qubes_OS_logo_2019.svg.png" alt="Qubes OS" title="Qubes OS" height="60"/> </p> 
+ <p align="center"> <img src="https://img.icons8.com/color/96/windows-10.png" alt="Windows" title="Windows" height="60"/> &nbsp;&nbsp; <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" alt="Kali Linux" title="Kali Linux" height="60"/> &nbsp;&nbsp; <img src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000" alt="Arch Linux" title="Arch Linux" height="60"/> &nbsp;&nbsp; <img src="https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000" alt="Ubuntu" title="Ubuntu" height="60"/> </p> 
 
 ---
 

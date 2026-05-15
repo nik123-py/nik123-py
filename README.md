@@ -17,13 +17,12 @@
 - 🤝 I’m looking to **collaborate** on GitHub
 - 🤔 Need help with: **Assembly & OS Development**
 - 💼 How to reach me: [LinkedIn](https://www.linkedin.com/in/nikhilesh-sharma-629b84329/)
-- 😄 Pronouns: **He/Him**
 
 ---
 
 ### 🧠 What I'm Learning & Exploring
 
-- 🧬 Low-level programming: **Assembly**, **C++**, **Rust**
+- 🧬 Low-level programming: **Assembly**, **C++**, **C**
 - 🛡️ **Cybersecurity** and **Offensive Security**
 - 💻 **Web application security**
 - 🔍 **Vulnerability detection & patching**
